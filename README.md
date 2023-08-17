@@ -1,12 +1,17 @@
-Halo, ini yang pertama.
+Tentang Saya:
+Seorang mahasiswa jurusan Teknik Informatika yang penuh semangat dan berdedikasi untuk mempelajari dan mengembangkan keterampilan pemrograman. Saya percaya bahwa dunia teknologi memberikan peluang tanpa batas untuk menciptakan solusi kreatif dan berdampak. Selalu bersemangat mengeksplorasi dunia kode dan menantang diri saya sendiri untuk menghadapi tantangan baru.
 
-- 👋 Hi, I’m @abi-nhs
-- 👀 I’m interested in ... Belajar
-- 🌱 I’m currently learning ... di Universitas Hamzanwadi
-- 💞️ I’m looking to collaborate on ... github
-- 📫 How to reach me ... soon
+Keterampilan (Masih Belajar):
+🚀 Bahasa Pemrograman: Python, Java 
+💻 Teknologi Web: HTML, CSS, JavaScript 
+📦 Pustaka & Framework: React, Flask. Django 
+🔧 Alat Pengembangan: Git, Visual Studio Code 
+🔍 Database: MySQL, MongoDB
 
-<!---
-abi-nhs/abi-nhs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Proyek Terbaru:
+
+    🌐 Hamzanwadi Muda : Sebuah aplikasi web yang memungkinkan pengguna (mahasiswa) mengatur dan mengelola tugas-tugas harian dan menjadi pusat informasi dari kampus dengan antarmuka yang intuitif dan fitur kolaboratif.
+    🎮 Game Tebakan Edukatif (Tebak): Sebuah permainan interaktif untuk anak-anak yang mengajarkan konsep matematika dasar dengan cara yang menyenangkan.
+    Keduanya yang diatas itu adalah tugas kuliah ku.
+
+Saya senang berkolaborasi dalam proyek-proyek inovatif dan terus belajar dari komunitas pengembang. Mari kita terhubung dan bersama-sama menciptakan solusi teknologi yang menginspirasi! 💡👨‍💻 #CodeEnthusiast #TechInnovator
