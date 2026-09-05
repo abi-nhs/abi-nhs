@@ -1,5 +1,5 @@
 Tentang Saya:
-Seorang mahasiswa jurusan Teknik Informatika yang penuh semangat dan berdedikasi untuk mempelajari dan mengembangkan keterampilan pemrograman. Saya percaya bahwa dunia teknologi memberikan peluang tanpa batas untuk menciptakan solusi kreatif dan berdampak. Selalu bersemangat mengeksplorasi dunia kode dan menantang diri saya sendiri untuk menghadapi tantangan baru.
+Seorang mahasiswa jurusan Teknik Informatika (sekarang udah lulus) yang penuh semangat dan berdedikasi untuk mempelajari dan mengembangkan keterampilan pemrograman. Saya percaya bahwa dunia teknologi memberikan peluang tanpa batas untuk menciptakan solusi kreatif dan berdampak. Selalu bersemangat mengeksplorasi dunia kode dan menantang diri saya sendiri untuk menghadapi tantangan baru.
 
 Keterampilan (Masih Belajar):
 🚀 Bahasa Pemrograman: Python, Java 
